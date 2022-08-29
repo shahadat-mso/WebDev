@@ -1,0 +1,1 @@
+aiming to web development. HTML CSS JS will be covered from w3schools.
